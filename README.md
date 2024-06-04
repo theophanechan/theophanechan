@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on school projects and other things that I can add to my portfolio
 - 📫 How to reach me theophanechan@yahoo.com
 - 😄 Pronouns: he/he
-- ⚡ Fun fact: I have pet snails!
+- ⚡ Fun fact: iam42at42!
 
 <!---
 theophanechan/theophanechan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

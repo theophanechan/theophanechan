@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theophanechan
-- 👀 I’m interested in making things with my hands
+- 👀 I’m interested in making things on my own
 - 🌱 I’m currently learning to code with 42 School in Singapore
 - 💞️ I’m looking to collaborate on school projects and other things that I can add to my portfolio
 - 📫 How to reach me theophanechan@yahoo.com
